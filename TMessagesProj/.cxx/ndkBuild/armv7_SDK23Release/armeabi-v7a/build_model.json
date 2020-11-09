@@ -1,0 +1,61 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\Users\\user\\Desktop\\tg-master",
+      "sdkFolder": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\build\\intermediates",
+      "gradleModulePathName": ":TMessagesProj",
+      "moduleRootFolder": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj",
+      "makeFile": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "C:\\Users\\user\\Desktop\\tg-master\\.cxx",
+      "cxxFolder": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx",
+      "ndkFolder": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "NDK_APPLICATION_MK:\u003djni/Application.mk",
+      "APP_PLATFORM:\u003dandroid-16",
+      "-j8"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "armv7_SDK23Release",
+    "soFolder": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\build\\intermediates\\ndkBuild\\armv7_SDK23Release\\lib",
+    "objFolder": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\build\\intermediates\\ndkBuild\\armv7_SDK23Release\\obj\\local",
+    "jsonFolder": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx\\ndkBuild\\armv7_SDK23Release",
+    "gradleBuildOutputFolder": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx\\cxx\\armv7_SDK23Release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 23,
+  "cxxBuildFolder": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx\\ndkBuild\\armv7_SDK23Release\\armeabi-v7a",
+  "jsonFile": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx\\ndkBuild\\armv7_SDK23Release\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx\\cxx\\armv7_SDK23Release\\armeabi-v7a",
+  "objFolder": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\build\\intermediates\\ndkBuild\\armv7_SDK23Release\\obj\\local\\armeabi-v7a",
+  "buildCommandFile": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx\\ndkBuild\\armv7_SDK23Release\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx\\ndkBuild\\armv7_SDK23Release\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx\\ndkBuild\\armv7_SDK23Release\\armeabi-v7a\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx\\ndkBuild\\armv7_SDK23Release\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\Users\\user\\Desktop\\tg-master\\TMessagesProj\\.cxx\\ndkBuild\\armv7_SDK23Release\\armeabi-v7a\\compile_commands.json"
+}
